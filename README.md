@@ -1,2 +1,3 @@
 # suvicsabika.github.io
-ez most valami vicc?
+
+A második zárthelyi számonkérés 4. feladatához szükséges weblap.
